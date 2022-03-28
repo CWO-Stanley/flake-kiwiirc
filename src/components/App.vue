@@ -399,7 +399,6 @@ body {
     line-height: 1.6em;
     font-family: Source Sans Pro, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
-    height: 100%;
     overflow: hidden;
 }
 
@@ -423,7 +422,7 @@ body {
     right: auto;
     margin-top: -4px;
     width: 100%;
-    height: 7px;
+    height: 4px;
     z-index: 0;
     transition: width 0.3s;
 }
